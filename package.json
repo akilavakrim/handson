@@ -1,0 +1,22 @@
+{
+  "name": "npm_commands",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akilavakrim/handson.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "akila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akilavakrim/handson/issues"
+  },
+  "homepage": "https://github.com/akilavakrim/handson#readme"
+}
